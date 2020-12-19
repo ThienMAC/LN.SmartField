@@ -1,0 +1,10 @@
+D:\@SmartField\Bin\LN.DashBoard.dll
+D:\@SmartField\Bin\LN.DashBoard.pdb
+D:\@SmartField\LN.DashBoard\obj\Debug\LN.DashBoard.csprojAssemblyReference.cache
+D:\@SmartField\LN.DashBoard\obj\Debug\LN.DashBoard.Properties.Resources.resources
+D:\@SmartField\LN.DashBoard\obj\Debug\LN.DashBoard.csproj.GenerateResource.cache
+D:\@SmartField\LN.DashBoard\obj\Debug\LN.DashBoard.csproj.CoreCompileInputs.cache
+D:\@SmartField\LN.DashBoard\obj\Debug\LN.DashBoard.csproj.CopyComplete
+D:\@SmartField\LN.DashBoard\obj\Debug\LN.DashBoard.dll
+D:\@SmartField\LN.DashBoard\obj\Debug\LN.DashBoard.pdb
+D:\@SmartField\LN.DashBoard\obj\Debug\LN.DashBoard.MainForm.resources
