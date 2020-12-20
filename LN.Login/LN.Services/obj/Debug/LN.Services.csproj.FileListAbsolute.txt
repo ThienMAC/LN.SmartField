@@ -1,0 +1,6 @@
+D:\@SmartField\LN.Login\LN.Services\bin\Debug\LN.Services.dll
+D:\@SmartField\LN.Login\LN.Services\bin\Debug\LN.Services.pdb
+D:\@SmartField\LN.Login\LN.Services\obj\Debug\LN.Services.csprojAssemblyReference.cache
+D:\@SmartField\LN.Login\LN.Services\obj\Debug\LN.Services.csproj.CoreCompileInputs.cache
+D:\@SmartField\LN.Login\LN.Services\obj\Debug\LN.Services.dll
+D:\@SmartField\LN.Login\LN.Services\obj\Debug\LN.Services.pdb

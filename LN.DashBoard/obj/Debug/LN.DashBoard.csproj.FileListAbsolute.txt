@@ -8,3 +8,6 @@ D:\@SmartField\LN.DashBoard\obj\Debug\LN.DashBoard.csproj.CopyComplete
 D:\@SmartField\LN.DashBoard\obj\Debug\LN.DashBoard.dll
 D:\@SmartField\LN.DashBoard\obj\Debug\LN.DashBoard.pdb
 D:\@SmartField\LN.DashBoard\obj\Debug\LN.DashBoard.MainForm.resources
+D:\@SmartField\LN.DashBoard\obj\Debug\LN.DashBoard.ucEmployeesList.resources
+D:\@SmartField\LN.DashBoard\obj\Debug\LN.DashBoard.dll.licenses
+D:\@SmartField\LN.DashBoard\obj\Debug\LN.DashBoard.View.Employee.frmAddNewEmployee.resources

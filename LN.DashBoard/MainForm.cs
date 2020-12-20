@@ -7,6 +7,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using SetupControl;
 
 namespace LN.DashBoard
 {
@@ -24,10 +25,16 @@ namespace LN.DashBoard
 
         private void MainForm_FormClosed(object sender, FormClosedEventArgs e)
         {
-            if(MessageBox.Show("Bạn có chắc muốn tắt chương trình?","Thông báo",MessageBoxButtons.YesNo,MessageBoxIcon.Question)==DialogResult.Yes)
+            if (MessageBox.Show("Bạn có chắc muốn tắt chương trình?", "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
             {
                 Application.Exit();
             }
+            return;
+        }
+
+        private void accorEmployeeList_Click(object sender, EventArgs e)
+        {
+            ControlForContainer.Instance.AddControl_ToContainer(container, ucEmployeesList.Instance);
         }
     }
 }
